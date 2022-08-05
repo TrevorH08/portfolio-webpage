@@ -19,7 +19,7 @@ h2.about {
   padding: 20px;
   border-width: 15px;
   border-spacing: 15px;
-  Margin-bottom: auto;
+  Margin-bottom: 30px;
   margin-top: 15px;
   box-sizing: border-box;
   background-color: #445760;
@@ -38,6 +38,7 @@ body {
 p {
   display: block;
   margin-top: 15px;
+  margin-bottom: 30px;
 }
 
 .card {
@@ -50,12 +51,12 @@ img {
   border: solid #c1c1c1;
   padding: 20px;
   border-width: 15px;
-  Margin-bottom: auto;
   box-sizing: border-box;
   background-color: #445760;
   display: block;
   margin: auto;
-  width: 50%;
+  Margin-bottom: 50px;
+  width: 40%;
   height: auto;
 }
 
@@ -64,7 +65,7 @@ h3 {
   border: solid #c1c1c1;
   padding: 10px;
   border-width: 10px;
-  Margin-bottom: 15px;
+  Margin-bottom: 30px;
   margin-top: 15px;
   box-sizing: border-box;
   background-color: #445760;
@@ -86,11 +87,12 @@ img.google {
   width: 16%;
   height: 16%;
   display: block;
-  Margin-bottom: 15px;
+  Margin-bottom: 30px;
 }
 
 p.background {
   text-align: left;
+  margin-bottom: 30px;
 }
 
 .row {
