@@ -3,9 +3,9 @@
 h1 {
   text-align: center;
   font-size: xx-large;
-  border: solid #445760;
+  border: solid #c1c1c1;
   padding: 20px;
-  border-width: 25px;
+  border-width: 15px;
   Margin-bottom: auto;
   box-sizing: border-box;
   background-color: #445760;
@@ -16,9 +16,9 @@ h1 {
 h2.about {
   text-align: center;
   font-size: xx-large;
-  border: solid #445760;
+  border: solid #c1c1c1;
   padding: 20px;
-  border-width: 25px;
+  border-width: 15px;
   Margin-bottom: auto;
   box-sizing: border-box;
   background-color: #445760;
@@ -35,4 +35,36 @@ body {
 
 p {
   display: block;
+}
+
+.card {
+  background-color: #445760;
+  border-width: 15px;
+  border: solid #c1c1c1;
+}
+
+img {
+  border: solid #c1c1c1;
+  padding: 20px;
+  border-width: 15px;
+  Margin-bottom: auto;
+  box-sizing: border-box;
+  background-color: #445760;
+  display: block;
+  margin: auto;
+  width: 50%;
+  height: auto;
+
+}
+
+h3 {
+  text-align: center;
+  border: solid #c1c1c1;
+  padding: 10px;
+  border-width: 10px;
+  Margin-bottom: auto;
+  box-sizing: border-box;
+  background-color: #445760;
+  display: block;
+  color: #c1c1c1;
 }
