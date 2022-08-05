@@ -87,3 +87,8 @@ img.google {
 p.background {
   text-align: left;
 }
+
+.row {
+  border: solid #3c4043;
+  padding: 10px;
+}
