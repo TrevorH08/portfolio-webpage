@@ -1,8 +1,4 @@
-body {
-  background-color: #3c4043;
-  color: #c1c1c1;
-  font-family: 'Courier New', Courier, monospace
-}
+
 
 h1 {
   text-align: center;
@@ -12,5 +8,31 @@ h1 {
   border-width: 25px;
   Margin-bottom: auto;
   box-sizing: border-box;
-  background-color: #445760
+  background-color: #445760;
+  color: #c1c1c1;
+  
+}
+
+h2.about {
+  text-align: center;
+  font-size: xx-large;
+  border: solid #445760;
+  padding: 20px;
+  border-width: 25px;
+  Margin-bottom: auto;
+  box-sizing: border-box;
+  background-color: #445760;
+  display: block;
+  color: #c1c1c1;
+}
+
+body {
+  background-color: #3c4043;
+  color: #c1c1c1;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+p {
+  display: block;
 }
