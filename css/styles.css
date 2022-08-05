@@ -1,4 +1,16 @@
 body {
   background-color: #3c4043;
   color: #c1c1c1;
+  font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+  text-align: center;
+  font-size: xx-large;
+  border: solid #445760;
+  padding: 20px;
+  border-width: 25px;
+  Margin-bottom: auto;
+  box-sizing: border-box;
+  background-color: #445760
 }
