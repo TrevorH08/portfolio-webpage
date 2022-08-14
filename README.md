@@ -12,16 +12,16 @@
 
 ## Description
 
-_This webpage serves as a portfolio that encompasses facts about myself, Trevor H, as well as provide direct links to other projects I've worked on._
+_This webpage serves as a portfolio that encompasses facts about myself, Trevor H, as well as provide direct links to other projects I've worked on. Site found here: https://trevorh08.github.io/portfolio-webpage/_
 
 ## Setup/Installation Requirements
 
-- _Clone from GitHub at:_
-- _Navigate to the "Trevor's-Portfolio" folder_
+- _Clone from GitHub at:https://github.com/TrevorH08/portfolio-webpage ._
+- _Navigate to the "portfolio-webpage" folder_
 - _Double click index.html to open a locally hosted instance_
 - _TO EDIT: Open folder using text editor of your choice_
 
-_For any issues with installation, follow the steps listed above again._
+_For any issues with installation, follow the steps listed above again. Link to GH-Pages to view: https://trevorh08.github.io/portfolio-webpage/ ._
 
 ## Known Bugs
 
@@ -30,7 +30,7 @@ _For any issues with installation, follow the steps listed above again._
 
 ## License
 
-_If you run into any issues or simply have questions, feel free to report them in the "Issues Tab" of this project's GitHub Repository: https://github.com/TrevorH08/portfolio-webpage_
+_If you run into any issues or simply have questions, feel free to report them in the "Issues Tab" of this project's GitHub Repository: https://github.com/TrevorH08/portfolio-webpage ._
 
 Copyright (c) _08/05/22_ _Trevor Hunter_
 
